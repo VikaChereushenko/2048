@@ -19,8 +19,6 @@ Fork and clone this repository
 
 Run npm install in your terminal
 
-Open http://localhost:8080/ in your browser
-
 Run npm start to start the project locally
 
 ## **Game logic**
